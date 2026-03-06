@@ -7,7 +7,22 @@ from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
-
+# Load environment variables# Load environment variables# Load environment variables# Load environment variables
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variables
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variables
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variables
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
+# Load environment variables# Load environment variables# Load environment variables# Load environment variable
 # Initialize  Flask app
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
