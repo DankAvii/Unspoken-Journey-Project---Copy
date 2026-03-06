@@ -4,25 +4,85 @@
 // 1. Go to  Project Settings
 // 2. Scroll down to "Your apps"
 // 3. Click on the web app (</>)
-// 4. Copy the configuration object// Firebase configuration
+// Firebase configuration
 // TODO: Replace these values with your Firebase project configuration
 // You can find these values in your Firebase Console:
 // 1. Go to  Project Settings
 // 2. Scroll down to "Your apps"
 // 3. Click on the web app (</>)
-// 4. Copy the configuration object// Firebase configuration
+// 4. Copy the configuration object
+// Firebase configuration
 // TODO: Replace these values with your Firebase project configuration
 // You can find these values in your Firebase Console:
 // 1. Go to  Project Settings
 // 2. Scroll down to "Your apps"
 // 3. Click on the web app (</>)
-// 4. Copy the configuration object// Firebase configuration
+// 4. Copy the configuration object
+// Firebase configuration
 // TODO: Replace these values with your Firebase project configuration
 // You can find these values in your Firebase Console:
 // 1. Go to  Project Settings
 // 2. Scroll down to "Your apps"
 // 3. Click on the web app (</>)
-// 4. Copy the configuration object// Firebase configuration
+// 4. Copy the configuration object
+// Firebase configuration
+// TODO: Replace these values with your Firebase project configuration
+// You can find these values in your Firebase Console:
+// 1. Go to  Project Settings
+// 2. Scroll down to "Your apps"
+// 3. Click on the web app (</>)
+// 4. Copy the configuration object
+// Firebase configuration
+// TODO: Replace these values with your Firebase project configuration
+// You can find these values in your Firebase Console:
+// 1. Go to  Project Settings
+// 2. Scroll down to "Your apps"
+// 3. Click on the web app (</>)
+// 4. Copy the configuration object
+
+// Firebase configuration
+// TODO: Replace these values with your Firebase project configuration
+// You can find these values in your Firebase Console:
+// 1. Go to  Project Settings
+// 2. Scroll down to "Your apps"
+// 3. Click on the web app (</>)
+// 4. Copy the configuration object
+// Firebase configuration
+// TODO: Replace these values with your Firebase project configuration
+// You can find these values in your Firebase Console:
+// 1. Go to  Project Settings
+// 2. Scroll down to "Your apps"
+// 3. Click on the web app (</>)
+// 4. Copy the configuration object
+// Firebase configuration
+// TODO: Replace these values with your Firebase project configuration
+// You can find these values in your Firebase Console:
+// 1. Go to  Project Settings
+// 2. Scroll down to "Your apps"
+// 3. Click on the web app (</>)
+// 4. Copy the configuration object
+// Firebase configuration
+// TODO: Replace these values with your Firebase project configuration
+// You can find these values in your Firebase Console:
+// 1. Go to  Project Settings
+// 2. Scroll down to "Your apps"
+// 3. Click on the web app (</>)
+// 4. Copy the configuration object
+// Firebase configuration
+// TODO: Replace these values with your Firebase project configuration
+// You can find these values in your Firebase Console:
+// 1. Go to  Project Settings
+// 2. Scroll down to "Your apps"
+// 3. Click on the web app (</>)
+// 4. Copy the configuration object
+// Firebase configuration
+// TODO: Replace these values with your Firebase project configuration
+// You can find these values in your Firebase Console:
+// 1. Go to  Project Settings
+// 2. Scroll down to "Your apps"
+// 3. Click on the web app (</>)
+// 4. Copy the configuration object
+// Firebase configuration
 // TODO: Replace these values with your Firebase project configuration
 // You can find these values in your Firebase Console:
 // 1. Go to  Project Settings
