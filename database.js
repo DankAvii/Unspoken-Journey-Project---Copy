@@ -7,16 +7,7 @@
 // 4. Copy the configuration object
 
 
-
-
-
-
-
-
-
-
-
-
+s
  firebaseConfig = {
   apiKey: "AIzaSyDHfuCVvtRep_paqPw57W7h70JXT1kIkRI",
   authDomain: "unspoken-journey-29be5.firebaseapp.com",
